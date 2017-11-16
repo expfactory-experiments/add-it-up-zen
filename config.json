@@ -1,7 +1,7 @@
 {
     "name": "Add It Up! (Zen Mode)",
     "template":"phaser",
-    "exp_id": "add_it_up_zen",
+    "exp_id": "add-it-up-zen",
     "contributors": [
                      "Jonathan Nicholas",
                      "Christian Battista",
