@@ -9,7 +9,7 @@
                     ],
     
     "time":10,
-    "instruction": "Follow the instructions to play the game.",
+    "instructions": "Follow the instructions to play the game.",
     "description": "A fun, relaxed game to sum two numbers.",
     "url": "https://www.github.com/expfactory-experiments/add-it-up-zen"
 
